@@ -5,22 +5,14 @@
 Me chamo Nathã Rodrigues, tenho 22 anos e moro no Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na Cesuca, sempre buscando aprender mais e me aprofundar no universo da tecnologia. No momento, atuo como Assistente de Suporte em TI na Bomber, onde tenho a oportunidade de lidar com desafios reais e aprimorar minhas habilidades todos os dias.
 Sou movido pela vontade de criar e inovar, sempre explorando novas ideias, ferramentas e possibilidades dentro da área. Gosto de aprender, experimentar e transformar conceitos em algo útil — e, claro, me divertir no processo!
 
-<p align="left">
-    <a href="https://github.com/NathaRodrigues-2003?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NathaRodrigues-2003?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/NathaRodrigues-2003?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NathaRodrigues-2003?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div> 
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-008B8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natha-rodrigues/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD39B?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nathasrrodrigues@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FA8072?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathaRodrigues-2003)
+
+  
+</div>
 
 ---
 
