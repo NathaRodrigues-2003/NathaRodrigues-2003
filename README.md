@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4e5b7f&random=false&width=440&height=40&lines=Hi+there,+i'm+Nathã+Rodrigues!)](https://git.io/typing-svg)
 
-**`Developer FullStack`**
+**`Software Engineer`**
 
 Me chamo Nathã Rodrigues, tenho 22 anos e moro no Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na Cesuca, sempre buscando aprender mais e me aprofundar no universo da tecnologia. No momento, atuo como Assistente de Suporte em TI na Bomber, onde tenho a oportunidade de lidar com desafios reais e aprimorar minhas habilidades todos os dias.
 Sou movido pela vontade de criar e inovar, sempre explorando novas ideias, ferramentas e possibilidades dentro da área. Gosto de aprender, experimentar e transformar conceitos em algo útil — e, claro, me divertir no processo!
