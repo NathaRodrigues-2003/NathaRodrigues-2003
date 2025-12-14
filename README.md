@@ -7,7 +7,7 @@ Sou movido pela vontade de criar e inovar, sempre explorando novas ideias, ferra
 
 <div> 
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-008B8B?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/natha-rodrigues/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvDjh4ovDS%2BCgkp1Jvg3mgA%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-008B8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvDjh4ovDS%2BCgkp1Jvg3mgA%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-FFD39B?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nathasrrodrigues@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FA8072?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathaRodrigues-2003)
 
